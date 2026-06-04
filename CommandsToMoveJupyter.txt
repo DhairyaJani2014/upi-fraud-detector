@@ -1,0 +1,6 @@
+		Short version — just 3 commands:
+powershellcd C:\Users\Dhairy Jani\upi-fraud-detector
+
+venv\Scripts\activate
+
+jupyter notebook
