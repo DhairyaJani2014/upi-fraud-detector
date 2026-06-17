@@ -93,17 +93,4 @@ upi-fraud-detector/
 ├── requirements.txt
 └── README.md
 
-## 🎯 Resume Description
-UPI Transaction Fraud Detection System
 
-Built end-to-end fraud detection pipeline using K-Means
-clustering and Random Forest classifier (82% recall)
-Designed PyTorch Neural Network with Autograd for
-real-time fraud risk scoring (86% recall, 0-100 score)
-Deployed interactive Streamlit dashboard for live
-transaction analysis
-Handled class imbalance (0.17% fraud) using SMOTE
-oversampling technique
-
-## 👨‍💻 Author
-**Dhairya Jani** — [GitHub](https://github.com/DhairyaJani2014)
